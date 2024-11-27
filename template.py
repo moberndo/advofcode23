@@ -1,5 +1,5 @@
 ''' ###########################################################################
-    Title: Advent of Code 2024 - Day 1
+    Title: Advent of Code 2024 - Day XY
     Author: Markus E. Oberndorfer
 ########################################################################### '''
 
@@ -7,7 +7,7 @@
 from pathlib import Path
 
 ''' SETTINGS '''
-path = 'input1.txt'
+path = 'inputXY.txt'
 
 ''' MAIN '''
 
