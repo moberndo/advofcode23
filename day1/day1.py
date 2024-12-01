@@ -4,8 +4,6 @@
 ########################################################################### '''
 
 ''' IMPORTS '''
-from pathlib import Path
-import pandas as pd
 import numpy as np
 
 ''' SETTINGS '''
@@ -38,10 +36,6 @@ class list_reader:
             counter = sum(self.list2 == elem)
             sim_score += elem * counter
         return sim_score
-
-
-
-
 
 ''' MAIN '''
 lst_reader = list_reader(path=path)
