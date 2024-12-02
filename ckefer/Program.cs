@@ -7,6 +7,7 @@ internal class Program
     static void Main(string[] args)
     {
         Run<Day01>();
+        Run<Day02>();
     }
 
     private static void Run<T>()
