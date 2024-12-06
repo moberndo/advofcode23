@@ -4,10 +4,13 @@
 ########################################################################### '''
 
 ''' IMPORTS '''
-from pathlib import Path
 
 ''' SETTINGS '''
-path = 'inputXY.txt'
+path = 'input.txt'
 
 ''' MAIN '''
 
+res1 = ...
+res2 = ...
+print(f'Result task 1: {res1}') 
+print(f'Result task 2: {res2}') 
